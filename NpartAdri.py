@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 12 09:01:31 2019
 
-@author: UO257337
-"""
 
 from numpy import *
 import matplotlib.pyplot as plt
